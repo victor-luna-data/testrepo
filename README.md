@@ -1,2 +1,2 @@
 # testrepo
-Primer acercamiento con los repositorios de github
+Primer acercamiento con los repositorios de github.
